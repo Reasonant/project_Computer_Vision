@@ -1,0 +1,20 @@
+{'metrics/precision(B)': 0.7170026123352689,
+ 'metrics/recall(B)': 0.6068895851643521,
+ 'metrics/mAP50(B)': 0.6647931511646945,
+ 'metrics/mAP50-95(B)': 0.4991882186151514,
+ 'fitness': 0.5157487118701057}
+
+speed:
+{'preprocess': 1.7866667522559836,
+ 'inference': 592.9854978748593,
+ 'loss': 0.0,
+ 'postprocess': 2.245306294646132}
+
+Precision : 0.717
+Recall : 0.607
+mAP@IoU:0.50 : 0.665
+mAP@IoU:0.5:0.95 : 0.499
+
+Preprocess time : 1.79ms
+Inference time : 592.99ms
+Postprocess time : 2.25ms
